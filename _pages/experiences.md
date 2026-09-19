@@ -1,6 +1,6 @@
 ---
 permalink: /experiences/
-title: "Experience"
+title: "Experiences"
 layout: single
 author_profile: true
 ---
@@ -68,11 +68,9 @@ author_profile: true
 
 <div class="list__item">
   <article class="archive__item">
-    <h2 class="archive__item-title">R&amp;D Intern</h2>
+    <h2 class="archive__item-title">R&amp;D Intern in NLP</h2>
     <p class="page__meta"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> Planet AI GmbH, Rostock, Germany &middot; April 2019 &ndash; September 2019</p>
-    <ul>
-      <li>Evaluated the performance of a bidirectional LSTM-CNN-CRF NER model in TensorFlow.</li>
-    </ul>
+    <p>Evaluated the performance of a bidirectional LSTM-CNN-CRF NER model in TensorFlow.</p>
   </article>
 </div>
 
