@@ -27,9 +27,17 @@ author:
   name             : "Sumaiya Suravee"
   pronouns         : "she/her"  
   bio              : "I am Sumaiya Suravee, a postdoctoral researcher at the
-Institute of Data Science, University of Greifswald. My research focuses on natural language processing,
-Ontology and Knowledge Graphs, semantic knowledge representation, large language models, and graph-based reasoning."
+Institute of Data Science, University of Greifswald.
 
+My research focuses on natural language processing,
+large language models, and knowledge representation.
+
+## Research interests
+
+- Natural language processing
+- Knowledge graphs and ontologies
+- AI for healthcare
+- LLM; GraphRAG"
   location         : "Greifswald, Germany"
   employer         : "University of Greifswald"
   uri              : # URL
@@ -46,7 +54,6 @@ Ontology and Knowledge Graphs, semantic knowledge representation, large language
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : https://www.researchgate.net/profile/Sumaiya-Suravee?ev=hdr_xprf
-  linkedin         : https://www.linkedin.com/in/sumaiya-suravee-0a1b3a1b6/
   scopus           : # URL
   zotero           : # URL
 
