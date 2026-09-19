@@ -7,15 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Institute of Data Science, University of Greifswald. My research focuses on natural language processing, ontology and knowledge graphs, semantic knowledge representation, large language models, and graph-based reasoning.
+I am a postdoctoral researcher at the Institute of Data Science, University of Greifswald, Germany. My research focuses on natural language processing, large language models, and semantic knowledge extraction, with applications in dementia care and support for older adults. I currently work on the BehAIve project, contributing to automatic knowledge extraction, multimodal behaviour analysis, and activity recognition, alongside project coordination and doctoral student co-supervision.
 
-My work sits at the intersection of symbolic knowledge representation and modern neural methods — I'm particularly interested in how structured knowledge (ontologies, knowledge graphs) can make large language models more reliable, interpretable, and grounded.
+I completed my PhD at the University of Greifswald, where my research focused on Semantic Knowledge Extraction and Interactive Support in the Domain of Dementia. My work explores how knowledge from informal caregiver discussions can be extracted, structured, and used to develop intelligent support systems. It encompasses:
+
+- Developing annotation schemes and corpora for named entity recognition and relation extraction.
+- Evaluating large language models for knowledge extraction and data annotation.
+- Developing domain-specific ontologies and methods for populating knowledge graphs.
+- Integrating ontologies into GraphRAG-based chatbots for informal caregivers of people with dementia.
+
+Previously, I worked as a research associate at University Medicine Greifswald, investigating clinical text retrieval using large language models and developing tools for assessing medical coding data quality. At the Universities of Greifswald and Rostock, I worked on extracting knowledge from dementia-related texts and developing the eDEM-CONNECT ontology. Earlier, I completed an R&D internship and my master's thesis at Planet AI, focusing on named entity recognition, word embeddings, and optimisation methods.
+
+My research has appeared in venues including ACM Computing Surveys, Frontiers in Aging, RANLP, and workshops associated with IEEE PerCom and ECAI. I also contribute to the ARDUOUS initiative as a programme committee member, review research papers, and supervise master's thesis students.
 
 ## Research interests
 
-- Natural language processing
-- Knowledge graphs and ontologies
-- Large language models
-- Graph-based reasoning
+- Natural language processing and large language models
+- Semantic knowledge extraction
+- Ontologies and knowledge graphs
+- Retrieval-augmented generation and GraphRAG
+- Data annotation and text quality assessment
+- AI for dementia care and behaviour analysis
 
-Take a look at my [publications](/publications/), [talks](/talks/), and [CV](/cv/) for more on my work, or find me on [Google Scholar](https://scholar.google.com/citations?user=YcsLg00AAAAJ&hl=en&oi=ao) and [ORCID](https://orcid.org/0009-0008-4329-2388).
+## Education
+
+**PhD**, University of Greifswald, Germany, 2026<br>
+Research topic: Semantic Knowledge Extraction and Interactive Support in the Domain of Dementia.
+
+**MSc in Electrical Engineering**, University of Rostock, Germany, 2020<br>
+Specialisation in Information Technology.
+
+**BSc in Electrical and Electronics Engineering**, American International University-Bangladesh, 2016

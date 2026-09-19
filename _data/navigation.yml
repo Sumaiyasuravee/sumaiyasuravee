@@ -14,6 +14,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research Artifacts"
+    url: /research-artifacts/
+
   # Kept out of the header nav, but the pages themselves still exist
   # (accessible by direct URL) unless you delete the files:
   # - title: "Talks"

@@ -7,6 +7,21 @@
    ========================================================================== */
 
 /* -----------------------------------------------------------------------
+   Fix: .archive__item-teaser (border-radius + overflow:hidden, wrapping a
+   width:100%/height:auto <img>) collapses to zero height in this build,
+   clipping the image entirely. Round the image itself instead of relying
+   on the parent's overflow to clip it, and let the parent size normally.
+   ----------------------------------------------------------------------- */
+
+.archive__item-teaser {
+  overflow: visible;
+
+  img {
+    border-radius: $border-radius;
+  }
+}
+
+/* -----------------------------------------------------------------------
    Typography — swap the system font stack for Inter (loaded in
    _includes/head/custom.html), which reads close to the Montserrat/Roboto
    pairing used by the reference site.
@@ -142,14 +157,14 @@ $profile-col-width: 360px;
 
 .author__pronouns {
   margin-top: 2px !important;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: $type-size-6;
   text-align: center;
 }
 
 .author__title {
   margin: 6px 0 0 !important;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: $type-size-5;
 }
 
@@ -162,7 +177,7 @@ $profile-col-width: 360px;
 
 .author__location {
   margin: 8px 0 0 !important;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   font-size: $type-size-6;
 
   .icon-pad-right {
