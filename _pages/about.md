@@ -16,9 +16,7 @@ I completed my PhD at the University of Greifswald, where my research focused on
 - Developing domain-specific ontologies and methods for populating knowledge graphs.
 - Integrating ontologies into GraphRAG-based chatbots for informal caregivers of people with dementia.
 
-Previously, I worked as a research associate at University Medicine Greifswald, investigating clinical text retrieval using large language models and developing tools for assessing medical coding data quality. At the Universities of Greifswald and Rostock, I worked on extracting knowledge from dementia-related texts and developing the eDEM-CONNECT ontology. Earlier, I completed an R&D internship and my master's thesis at Planet AI, focusing on named entity recognition, word embeddings, and optimisation methods.
-
-My research has appeared in venues including ACM Computing Surveys, Frontiers in Aging, RANLP, and workshops associated with IEEE PerCom and ECAI. I also contribute to the ARDUOUS initiative as a programme committee member, review research papers, and supervise master's thesis students.
+My research has appeared in venues including ACM Computing Surveys, Frontiers in Aging, RANLP, and workshops associated with IEEE PerCom, ECAI and EMNLP. I also contribute to the ARDUOUS initiative as a programme committee member, review research papers, and supervise master's thesis students.
 
 ## Research interests
 
