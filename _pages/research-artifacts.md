@@ -1,11 +1,10 @@
 ---
 permalink: /research-artifacts/
 title: "Research Artifacts"
+hide_title: true
 layout: single
 author_profile: true
 ---
-
-Ontologies and knowledge graphs developed as part of my research on dementia-related agitation and informal caregiver support.
 
 <div class="list__item">
   <article class="archive__item">
@@ -48,7 +47,6 @@ Ontologies and knowledge graphs developed as part of my research on dementia-rel
       <li>Runs fully offline via GGUF conversion, so caregiver conversations never leave the device.</li>
       <li>Built on the <a href="/research-artifacts/#edem-connectonto">eDEM-CONNECTONTO</a> ontology and the Informal Dementia Forum Corpus (IDFC).</li>
       <li>Publicly available within the University of Greifswald via AppHub.</li>
-      <li>Suravee, S., Ghods, M.R. and Yordanova, K. (2026, March). &quot;Loc-DemCare: Supporting Informal Dementia Caregivers with a Local, Intelligent Chatbot.&quot; In <i>2026 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)</i>. pp. 551&ndash;555. IEEE.</li>
     </ul>
     <p><a href="https://datascience.uni-greifswald.de/forschung/research-artefacts/loc-demcare-chatbot/">View on Institute of Data Science</a></p>
   </article>

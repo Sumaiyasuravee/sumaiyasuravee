@@ -32,7 +32,6 @@ My research has appeared in venues including ACM Computing Surveys, Frontiers in
 **PhD**, University of Greifswald, Germany, 2026<br>
 Research topic: Semantic Knowledge Extraction and Interactive Support in the Domain of Dementia.
 
-**MSc in Electrical Engineering**, University of Rostock, Germany, 2020<br>
-Specialisation in Information Technology.
+**MSc in Electrical Engineering** (Specialisation in Information Technology), University of Rostock, Germany, 2020
 
 **BSc in Electrical and Electronics Engineering**, American International University-Bangladesh, 2016
