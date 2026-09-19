@@ -26,7 +26,18 @@ author:
   avatar           : "Sumaiya_Suravee_11-10-22_09a.jpg"
   name             : "Sumaiya Suravee"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am Sumaiya Suravee, a postdoctoral researcher at the
+Institute of Data Science, University of Greifswald.
+
+My research focuses on natural language processing,
+large language models, and knowledge representation.
+
+## Research interests
+
+- Natural language processing
+- Knowledge graphs and ontologies
+- AI for healthcare
+- LLM; GraphRAG"
   location         : "Greifswald, Germany"
   employer         : "University of Greifswald"
   uri              : # URL
